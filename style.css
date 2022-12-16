@@ -125,3 +125,9 @@ button:hover {
     color: rgb(21, 61, 27);
     font-weight: 700;
 }
+
+.pass-check {
+    color: red;
+    font-size: smaller;
+    visibility: hidden;
+}
